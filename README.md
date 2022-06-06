@@ -1,5 +1,5 @@
 # Applying_Stochastic_Subgradient_Descent_to_Machine_Learning_Methods
-Repository for all experimental work conducted in my thesis, Applying Stochastic Subgradient Descent to Machine Learning Methods
+Repository for all experimental work conducted in my honours thesis, Applying Stochastic Subgradient Descent to Machine Learning Methods
 
 ## Source Code
 
@@ -11,4 +11,4 @@ The individual results themslves are not uploaded, but ```summary.csv``` outline
 
 ## Thesis
 
-The final thesis itself can also be found here.
+The honours thesis itself can also be found here.
